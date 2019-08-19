@@ -32,7 +32,7 @@
 				<div class="mt-container">
 					
 					<div class="scholarship-copyright-wrapper">
-					© 2017 Khoa Công nghệ thông tin - Đại học Thủy lợi. Điện thoại: (+84)-024 3 5632211. Email: vpkcntt@tlu.edu.vn 
+					© 2017 Khoa Công nghệ thông tin - Đại học Thủy lợi	. Điện thoại: (+84)-024 3 5632211. Email: vpkcntt@tlu.edu.vn 
 				</div>
 
 					<div class="mt-sub-footer-right">

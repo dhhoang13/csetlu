@@ -1,14 +1,9 @@
 <?php
 /*
 * Plugin Name: WP Basic Crud 
-* Description: This plugin to create custom contact list-tables from database using WP_List_Table class.
-* Version:     1.1.0
-* Author:      Labarta
-* Author URI:  https://labarta.es/
-* License:     GPLv2 or later
-* License URI: https://www.gnu.org/licenses/gpl-2.0.html
-* Text Domain: wpbc
-* Domain Path: /languages
+* Description: 
+* Version:     1.0.0
+* Author:      Hoang Dao
 */
 
 defined( 'ABSPATH' ) or die( '¡Sin trampas!' );
